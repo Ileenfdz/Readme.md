@@ -1,5 +1,5 @@
 <body> 
-  <div background-image= 'https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png'>
+  <div background-color= 'blue'>
      <h3 align="center"><img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png'height=50px width=50px/> ~ Welcome to my Github!!, I'm Ileen Fernández ~ <img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png' height=50px width=50px/></h3>
   </div>
   
