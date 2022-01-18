@@ -1,17 +1,22 @@
-<h3 align="center"> ~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
+<style>
+  body{
+  background-image: href('https://user-images.githubusercontent.com/92292552/149981681-3eb78a04-153e-457d-9a62-ed9e11977ca5.png';
+</style>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<body>
+  <h3 align="center"> ~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
 
-<h4 align="center">Top langs :tongue:</h4>
+  <h2 align="center">Github stats :bar_chart:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ileenfdz&langs_count=10&theme=tokyonight&layout=compact" alt="Ileen's :: Top Langs" /></p>
+  <h4 align="center">Top langs :tongue:</h4>
 
-<h4 align="center">Profile stats</h4>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ileenfdz&langs_count=10&theme=tokyonight&layout=compact" alt="Ileen's :: Top Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ileenfdz&show_icons=true&theme=synthwave" alt="Ileen's :: Profile Stats" /></p>
+  <h4 align="center">Profile stats</h4>
 
-<h4 align="center">Visitor's count</h4>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ileenfdz&show_icons=true&theme=synthwave" alt="Ileen's :: Profile Stats" /></p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/%7BIleenfdz%7D/count.svg" alt="Ileen's :: Visitor's Count" /></p>
+  <h4 align="center">Visitor's count</h4>
 
-<p align="center" ><img src='https://user-images.githubusercontent.com/92292552/149981307-28bdcb0a-8702-48ed-872e-dfc4b9230a21.png'/></p>
+  <p align="center"><img src="https://profile-counter.glitch.me/%7BIleenfdz%7D/count.svg" alt="Ileen's :: Visitor's Count" /></p>
+</body>
