@@ -1,7 +1,7 @@
 <body> 
-  <div width = 'auto' height= 'auto'>
+  <div width = 'auto' height= 'auto' align="center">
     <img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png'height=50px width=50px/> 
-    <h3 align="center">~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
+    <h3 >~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
     <img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png' height=50px width=50px/>
   </div>
   
