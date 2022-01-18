@@ -1,10 +1,7 @@
 <body> 
-    <h3 align='center'><img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png'height=50px width=50px/><div
-   >~ Welcome to my Github!!, I'm Ileen Fernández ~</div><img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png' height=50px width=50px/></h3>
-  <div>
-    
+    <h3 position='relative' justify-content='center'><img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png' height=50px width=50px/><div>~ Welcome to my Github!!, I'm Ileen Fernández ~</div><img src='https://user-images.githubusercontent.com/92292552/149989209-a2328dec-b400-4173-9730-d37ff9996dcf.png' height=50px width=50px/></h3>
+
     <h2 align="center"><img src='https://user-images.githubusercontent.com/92292552/149989322-72c43e5c-dd80-440d-a072-99dd682135e7.png' height=50px width=50px/>Top langs <img src='https://user-images.githubusercontent.com/92292552/149989322-72c43e5c-dd80-440d-a072-99dd682135e7.png' height=50px width=50px/></h2>
-  </div>
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ileenfdz&langs_count=10&theme=tokyonight&layout=compact" alt="Ileen's :: Top Langs" /</p>
     
