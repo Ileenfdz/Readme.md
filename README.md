@@ -14,4 +14,4 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BIleenfdz%7D/count.svg" alt="Ileen's :: Visitor's Count" /></p>
 
-<p align="center" ><img src='![image](https://user-images.githubusercontent.com/92292552/149980811-5482eb7c-69b2-4988-a939-04d75fece7df.png)'/></p>
+<p align="center" ><img src='https://user-images.githubusercontent.com/92292552/149980811-5482eb7c-69b2-4988-a939-04d75fece7df.png'/></p>
