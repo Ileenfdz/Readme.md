@@ -1,4 +1,4 @@
-<body background-image: url('https://user-images.githubusercontent.com/92292552/149981681-3eb78a04-153e-457d-9a62-ed9e11977ca5.png')>
+<body>
  
   <h3 align="center"> ~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
 
@@ -15,4 +15,6 @@
   <h4 align="center">Visitor's count</h4>
 
   <p align="center"><img src="https://profile-counter.glitch.me/%7BIleenfdz%7D/count.svg" alt="Ileen's :: Visitor's Count" /></p>
+ 
+ <img src='https://user-images.githubusercontent.com/92292552/149981681-3eb78a04-153e-457d-9a62-ed9e11977ca5.png'/>
 </body>
