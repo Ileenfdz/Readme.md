@@ -1,12 +1,5 @@
-<style>
-  body{
-  background-image: url('https://user-images.githubusercontent.com/92292552/149981681-3eb78a04-153e-457d-9a62-ed9e11977ca5.png');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-</style>
-
-<body>
+<body background-image: url('https://user-images.githubusercontent.com/92292552/149981681-3eb78a04-153e-457d-9a62-ed9e11977ca5.png'), background-position: center, background-repeat: no-repeat, background-size: cover>
+ 
   <h3 align="center"> ~ Welcome to my Github!!, I'm Ileen Fernández ~</h3>
 
   <h2 align="center">Github stats :bar_chart:</h2>
