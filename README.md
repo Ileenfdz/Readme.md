@@ -5,6 +5,4 @@
     
   <h4 align="center">Profile stats</h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ileenfdz&show_icons=true&theme=synthwave" alt="Ileen's :: Profile Stats" /></p>
- 
- <img src='https://user-images.githubusercontent.com/92292552/149983035-acc8852d-2759-4cf4-b9e5-b6f4f0c12f55.png'/>
 </body>
