@@ -2,7 +2,8 @@
 
 <p align='center'>~ Fullstack development student ~</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ileenfdz&langs_count=10&theme=tokyonight&layout=compact" alt="Ileen's :: Top Langs" /</p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ileenfdz&langs_count=10&theme=tokyonight&layout=compact" alt="Ileen's :: Top Langs" /</p>
 
 <h4 align="center">~ Profile stats ~</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ileenfdz&show_icons=true&theme=synthwave" alt="Ileen's :: Profile Stats" /></p>
+ -->
