@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me: </h3>
 <p align="center">
-<a href="https://linkedin.com/in/ileen garcía-sampedro fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ileen garcía-sampedro fernández" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ileen-garc%C3%ADa-sampedro-fern%C3%A1ndez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ileen garcía-sampedro fernández" height="30" width="40" /></a>
 </p>
 
 
