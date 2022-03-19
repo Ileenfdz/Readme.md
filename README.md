@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [a-organizer](https://github.com/Ileenfdz/ex-sorting-algorithms)
+- 🔭 I’m currently working on [a-organizer](https://github.com/Triple-3A/a-organizer)
 
 - 🌱 I’m learning these bit by bit : **C++, HTML, CSS, JS, PHP, Java, SASS, Tailwind, Vue and Laravel(For the moment, UI and Jetstream with Inertia)**
 
